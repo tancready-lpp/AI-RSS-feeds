@@ -1,7 +1,6 @@
 [
   {"name": "Nuovi Modelli", "url": "https://www.artificialintelligence-news.com/feed/"},
-  {"name": "Nuove App", "url": "https://aiweekly.co/feed"},
-  {"name": "Trend Generali", "url": "https://www.venturebeat.com/category/ai/feed/"},
+  {"name": "404 Media", "url": "https://www.404media.co/rss"},
   {"name": "Etica AI", "url": "https://futureoflife.org/feed/"},
-  {"name": "AI Business", "url": "https://www.mckinsey.com/featured-insights/artificial-intelligence/rss"}
+  {"name": "AI Business", "url": "https://www.artificial-intelligence.blog/ai-news/category/business?format=rss"}
 ]
