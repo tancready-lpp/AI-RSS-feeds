@@ -2,5 +2,9 @@
 {
     "name": "Aboutpharma",
     "url": "https://www.aboutpharma.com/feed"
-}
+},
+{
+    "name": "Notiziario Chimico Farmaceutico",
+    "url": "https://www.notiziariochimicofarmaceutico.it/feed"
+  }
 ]
