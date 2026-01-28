@@ -98,11 +98,6 @@
       "language": "Italian"
     },
     {
-      "name": "Corriere della Sera - Economia",
-      "rss_url": "https://www.corriere.it/rss/economia.xml",
-      "language": "Italian"
-    },
-    {
       "name": "Il Sole 24 Ore - Sanità",
       "rss_url": "https://www.ilsole24ore.com/rss/salute--imprese-e-startup.xml",
       "note": "General feed, filter by sanità/pharma keywords",
