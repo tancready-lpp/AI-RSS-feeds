@@ -1,7 +1,6 @@
-{
-  "european_pharma_news_english": [
-    {
-      "name": "PharmaNews.eu",
+[
+  {
+  "name": "PharmaNews.eu",
       "rss_url": "https://pharmanews.eu/?format=feed&type=rss",
       "alternative_url": "https://pharmanews.eu/?format=feed&type=atom",
       "language": "English"
@@ -91,9 +90,7 @@
       "name": "Pharma IQ News",
       "rss_url": "https://rss.app/feeds/exAzW2Zwc0eAhqB2.xml",
       "language": "English"
-    }
-  ],
-  "italian_pharma_ma_news": [
+    },
     {
       "name": "BeBeez",
       "rss_url": "https://bebeez.it/feed",
@@ -139,5 +136,4 @@
       "note": "Financial wire service",
       "language": "Italian"
     }
-  ]
-}
+]
