@@ -1,0 +1,143 @@
+{
+  "european_pharma_news_english": [
+    {
+      "name": "PharmaNews.eu",
+      "rss_url": "https://pharmanews.eu/?format=feed&type=rss",
+      "alternative_url": "https://pharmanews.eu/?format=feed&type=atom",
+      "language": "English"
+    },
+    {
+      "name": "Fierce Pharma",
+      "rss_url": "https://www.fiercepharma.com/rss/xml",
+      "language": "English"
+    },
+    {
+      "name": "BioPharma Dive",
+      "rss_url": "https://www.biopharmadive.com/feeds/news",
+      "language": "English"
+    },
+    {
+      "name": "BioWorld",
+      "rss_url": "https://www.bioworld.com/rss/articles",
+      "language": "English"
+    },
+    {
+      "name": "PMLiVE",
+      "rss_url": "https://www.pmlive.com/rss",
+      "note": "Verify RSS icon on homepage",
+      "language": "English"
+    },
+    {
+      "name": "Pharmaceutical Technology",
+      "rss_url": "https://www.pharmaceutical-technology.com/feed",
+      "language": "English"
+    },
+    {
+      "name": "World Pharma News",
+      "rss_url": "https://www.worldpharmanews.com/?format=feed&type=rss",
+      "language": "English"
+    },
+    {
+      "name": "Pharmaphorum",
+      "rss_url": "https://pharmaphorum.com/rssfeed/news-and-features",
+      "language": "English"
+    },
+    {
+      "name": "European Pharmaceutical Review",
+      "rss_url": "https://www.europeanpharmaceuticalreview.com/feed",
+      "language": "English"
+    },
+    {
+      "name": "Pharma Focus Europe",
+      "rss_url": "https://rss.app/feeds/eagLCu4BefLlpwaf.xml",
+      "language": "English"
+    },
+    {
+      "name": "European Pharmaceutical Manufacturer",
+      "rss_url": "https://pharmaceuticalmanufacturer.media/api/rss/content.rss",
+      "language": "English"
+    },
+    {
+      "name": "PharmaBlue Blog",
+      "rss_url": "https://pharma-blue.com/feed",
+      "language": "English/French"
+    },
+    {
+      "name": "Pharmactive Biotech",
+      "rss_url": "https://pharmactive.eu/feed",
+      "language": "English"
+    },
+    {
+      "name": "Science Pharma Blog",
+      "rss_url": "https://sciencepharma.com/blog/feed",
+      "language": "English"
+    },
+    {
+      "name": "Pharmaceutical Business Review",
+      "rss_url": "https://www.pharmaceutical-business-review.com/feed",
+      "language": "English"
+    },
+    {
+      "name": "BioSpace",
+      "rss_url": "https://www.biospace.com/all-news.rss",
+      "language": "English"
+    },
+    {
+      "name": "BioPharm International",
+      "rss_url": "https://www.biopharminternational.com/rss",
+      "language": "English"
+    },
+    {
+      "name": "Pharma IQ News",
+      "rss_url": "https://rss.app/feeds/exAzW2Zwc0eAhqB2.xml",
+      "language": "English"
+    }
+  ],
+  "italian_pharma_ma_news": [
+    {
+      "name": "BeBeez",
+      "rss_url": "https://bebeez.it/feed",
+      "category_url": "https://bebeez.it/category/ma-e-corporate-finance/feed",
+      "language": "Italian"
+    },
+    {
+      "name": "AboutPharma",
+      "rss_url": "https://www.aboutpharma.com/feed",
+      "note": "Subscription may be required for full content",
+      "language": "Italian"
+    },
+    {
+      "name": "PharmaRetail",
+      "rss_url": "https://www.pharmaretail.it/feed",
+      "language": "Italian"
+    },
+    {
+      "name": "Corriere della Sera - Economia",
+      "rss_url": "https://www.corriere.it/rss/economia.xml",
+      "language": "Italian"
+    },
+    {
+      "name": "Il Sole 24 Ore - Sanità",
+      "rss_url": "https://www.ilsole24ore.com/rss/salute--imprese-e-startup.xml",
+      "note": "General feed, filter by sanità/pharma keywords",
+      "language": "Italian"
+    },
+    {
+      "name": "ANSA - Agenzia Stampa",
+      "rss_url": "https://www.ansa.it/sito/ansait_rss.xml",
+      "alternative_economia": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml",
+      "language": "Italian"
+    },
+    {
+      "name": "Investing.com Italia",
+      "rss_url": "https://it.investing.com/rss/news.rss",
+      "language": "Italian"
+    },
+    {
+      "name": "Radiocor - Il Sole 24 Ore",
+      "rss_url": "https://www.ilsole24ore.com/rss/radiocor.xml",
+      "note": "Financial wire service",
+      "language": "Italian"
+    }
+  ]
+}
